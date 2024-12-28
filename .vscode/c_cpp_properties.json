@@ -6,7 +6,7 @@
                 "${workspaceFolder}/std/include"
             ],
             "defines": [],
-            "compilerPath": "/opt/riscv32i/bin/riscv32-unknown-elf-gcc",
+            "compilerPath": "/home/alex/miniconda3/envs/hades-v/bin/riscv32-linux-musl-gcc",
             "cStandard": "c17",
             "cppStandard": "c++14",
             "configurationProvider": "ms-vscode.makefile-tools"
